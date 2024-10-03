@@ -39,6 +39,9 @@ if ret:
 videoCaptureObject.release()
 cv2.destroyAllWindows()
 ```
+## Output
+
+![364794808-8f2bfa2e-2559-4966-bfec-0d8df75a8b3b](https://github.com/user-attachments/assets/49b5d0e1-fc59-457f-a244-834096e417c1)
 
 
 
@@ -55,8 +58,10 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+## Output
 
 
+![364795537-7f17a65c-4eb4-44e7-a07e-f9fb4c9c4a25](https://github.com/user-attachments/assets/0757a311-243e-497b-9cab-4e66babc1975)
 
 ## iii) Display the video by resizing the window
 ```
@@ -79,7 +84,9 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+## Output
 
+<img width="787" alt="Screenshot 2024-10-03 at 10 37 26 AM" src="https://github.com/user-attachments/assets/7a0a16af-b3cf-4b74-990a-6682823f3e78">
 
 
 ## iv) Rotate and display the video
@@ -105,21 +112,10 @@ cv2.destroyAllWindows()
 ```
 ## Output
 
-### i) Write the frame as JPG image
-![364794808-8f2bfa2e-2559-4966-bfec-0d8df75a8b3b](https://github.com/user-attachments/assets/49b5d0e1-fc59-457f-a244-834096e417c1)
-
-
-### ii) Display the video
-![364795537-7f17a65c-4eb4-44e7-a07e-f9fb4c9c4a25](https://github.com/user-attachments/assets/0757a311-243e-497b-9cab-4e66babc1975)
-
-
-### iii) Display the video by resizing the window
-![364798032-df0bdb6d-a7e6-4fc6-a0f1-a88584c502ab](https://github.com/user-attachments/assets/3d3bfd76-8d5f-4c1d-bdf7-66b8aaf1eafc)
+<img width="792" alt="Screenshot 2024-10-03 at 10 37 51 AM" src="https://github.com/user-attachments/assets/4deb1604-4939-4c2e-a140-05f2ff8ba1d1">
 
 
 
-### iv) Rotate and display the video
-![364798083-6f10059f-b84f-4cc3-b346-68b15123ccfd](https://github.com/user-attachments/assets/686c5e29-fee1-4876-884e-a1a960272150)
 
 
 
